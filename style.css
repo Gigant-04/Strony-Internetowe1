@@ -1,0 +1,33 @@
+body{
+    COLOR:red;
+}
+#naglowek {
+    background-color: blueviolet; /*flotetow niebieskie tlo */
+    color: #ffffff; /* biały tekst */
+    text-align: center; /* wyśrodkowanie */
+    padding: 50px; /* wewnetrzy odstep*/
+    font-family: 'Arial Black', sans-serif; /*czcionka */
+    letter-spacing: 2px; /* odstęp między literami */
+    
+}
+
+
+
+
+
+
+
+
+
+
+#baner {
+    background-image: url('https://picsum.photos/1200/300?random=1');
+    background-size: cover;       /* obraz pokrywa cały div */
+    background-position: center;  /* wyśrodkowanie obrazu */
+    color: #ffffff;
+    text-align: center;
+    padding: 60px 20px;
+    text-shadow: 2px 2px 4px #000000;  /* cień tekstu */
+}
+
+
